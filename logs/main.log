@@ -1,0 +1,34 @@
+17:23:39 | Successfully opened logs files
+17:23:39 | Successfully initialized streams for logs
+17:23:39 | parse_header called:
+17:23:39 |     Found comment
+17:23:39 |     Found comment
+17:23:39 |     Switched to reading size of types
+17:23:39 |     Adopted new type int, size 8
+17:23:39 |     Adopted new type short_str, size 20
+17:23:39 |     Adopted new type long_str, size 128
+17:23:39 |     Adopted new type bool, size 1
+17:23:39 |     Adopted new type path, size 32
+17:23:39 |     Found comment
+17:23:39 |     Switched to reading tables
+17:23:39 |     Table constructor called with name students.db
+17:23:39 |     Table constructor called with name groups.db
+17:23:40 |     Table constructor called with name specialities.db
+17:23:40 |     Found comment
+17:23:40 |     Switched to reading key attributes
+17:23:40 |     Adopted key attributes for table students: student_id, group_id
+17:23:40 |     Adopted key attributes for table groups: group_id, id_speciality
+17:23:40 |     Adopted key attributes for table specialities: id_speciality, %&
+17:23:40 | Successfully parsed header
+17:23:40 | Successfully reached main loop
+17:23:53 | SELECT operation in the students table called
+17:23:53 |     Correct name recieved, continuing execution
+17:23:53 |     Validating attributes
+17:23:53 |     ALL-word was given
+17:23:53 | Starting entries search
+17:23:53 |     Checking defenition of every entry by attributes
+17:23:53 |     All entries are defined with attributes, writing them down
+17:23:53 | Entries selection completed, found 31 entries
+17:23:53 | Printing selected entries
+17:24:30 | Exit called
+17:24:30 | Successfully closed non-main log streams
