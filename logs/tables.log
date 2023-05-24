@@ -1,102 +1,122 @@
-17:23:39 | Table constructor called with name students.db
-17:23:39 |     Found 6 columns
-17:23:39 |     Adopted attribute student_id with type int
-17:23:39 |     Adopted attribute surname with type short_str
-17:23:39 |     Adopted attribute name with type short_str
-17:23:39 |     Adopted attribute patronymic with type short_str
-17:23:39 |     Adopted attribute date_birth with type short_str
-17:23:39 |     Adopted attribute group_id with type int
-17:23:39 |     Size of entry: 102
-17:23:39 |     Started initializing hash tables
-17:23:39 |     Successfully initialized hash tables, found 31 entries
-17:23:39 | Completed initialization of table with name students.db
-17:23:39 | Table constructor called with name groups.db
-17:23:39 |     Found 5 columns
-17:23:39 |     Adopted attribute group_id with type int
-17:23:39 |     Adopted attribute group_name with type short_str
-17:23:39 |     Adopted attribute course with type int
-17:23:39 |     Adopted attribute men with type int
-17:23:39 |     Adopted attribute id_speciality with type int
-17:23:39 |     Size of entry: 57
-17:23:39 |     Started initializing hash tables
-17:23:40 |     Successfully initialized hash tables, found 6 entries
-17:23:40 | Completed initialization of table with name groups.db
-17:23:40 | Table constructor called with name specialities.db
-17:23:40 |     Found 5 columns
-17:23:40 |     Adopted attribute id_speciality with type int
-17:23:40 |     Adopted attribute institute with type long_str
-17:23:40 |     Adopted attribute departament with type long_str
-17:23:40 |     Adopted attribute direction with type long_str
-17:23:40 |     Adopted attribute exam_list with type path
-17:23:40 |     Size of entry: 429
-17:23:40 |     Started initializing hash tables
-17:23:40 |     Successfully initialized hash tables, found 2 entries
-17:23:40 | Completed initialization of table with name specialities.db
-17:23:53 | Called get_entry on table students.db and entry 0
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 1
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 2
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 3
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 4
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 5
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 6
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 7
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 8
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 9
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 10
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 11
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 12
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 13
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 14
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 15
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 16
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 17
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 18
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 19
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 20
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 21
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 22
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 23
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 24
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 25
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 26
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 27
-17:23:53 | Successfully parsed and returned entry
-17:23:53 | Called get_entry on table students.db and entry 28
-17:23:53 | Successfully parsed and returned entry
-17:23:54 | Called get_entry on table students.db and entry 29
-17:23:54 | Successfully parsed and returned entry
-17:23:54 | Called get_entry on table students.db and entry 30
-17:23:54 | Successfully parsed and returned entry
-17:24:30 | Started physically clearing deleted entries on table students.db
-17:24:30 | Nothing to delete
-17:24:30 | Started physically clearing deleted entries on table groups.db
-17:24:30 | Nothing to delete
-17:24:30 | Started physically clearing deleted entries on table specialities.db
-17:24:30 | Nothing to delete
+21:02:57 | Table constructor called with name students.db
+21:02:57 |     Found 6 columns
+21:02:57 |     Adopted attribute student_id with type int
+21:02:57 |     Adopted attribute surname with type short_str
+21:02:57 |     Adopted attribute name with type short_str
+21:02:57 |     Adopted attribute patronymic with type short_str
+21:02:57 |     Adopted attribute date_birth with type short_str
+21:02:57 |     Adopted attribute group_id with type int
+21:02:57 |     Size of entry: 102
+21:02:57 |     Started initializing hash tables
+21:02:57 |     Successfully initialized hash tables, found 31 entries
+21:02:57 | Completed initialization of table with name students.db
+21:02:57 | Table constructor called with name groups.db
+21:02:57 |     Found 5 columns
+21:02:57 |     Adopted attribute group_id with type int
+21:02:57 |     Adopted attribute group_name with type short_str
+21:02:57 |     Adopted attribute course with type int
+21:02:57 |     Adopted attribute men with type int
+21:02:57 |     Adopted attribute id_speciality with type int
+21:02:57 |     Size of entry: 57
+21:02:57 |     Started initializing hash tables
+21:02:57 |     Successfully initialized hash tables, found 6 entries
+21:02:57 | Completed initialization of table with name groups.db
+21:02:57 | Table constructor called with name specialities.db
+21:02:57 |     Found 5 columns
+21:02:57 |     Adopted attribute id_speciality with type int
+21:02:57 |     Adopted attribute institute with type long_str
+21:02:57 |     Adopted attribute departament with type long_str
+21:02:57 |     Adopted attribute direction with type long_str
+21:02:57 |     Adopted attribute exam_list with type path
+21:02:57 |     Size of entry: 429
+21:02:57 |     Started initializing hash tables
+21:02:57 |     Successfully initialized hash tables, found 2 entries
+21:02:57 | Completed initialization of table with name specialities.db
+21:03:05 | Called get_entry on table students.db and entry 0
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 1
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 2
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 3
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 4
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 5
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 6
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 7
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 8
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 9
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 10
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 11
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 12
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 13
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 14
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 15
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 16
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 17
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 18
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 19
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 20
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 21
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 22
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 23
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 24
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 25
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 26
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 27
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 28
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 29
+21:03:05 | Successfully parsed and returned entry
+21:03:05 | Called get_entry on table students.db and entry 30
+21:03:05 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 0
+21:03:17 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 1
+21:03:17 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 2
+21:03:17 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 3
+21:03:17 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 4
+21:03:17 | Successfully parsed and returned entry
+21:03:17 | Called get_entry on table groups.db and entry 5
+21:03:17 | Successfully parsed and returned entry
+21:04:09 | Called get_entry on table groups.db and entry 5
+21:04:09 | Successfully parsed and returned entry
+21:04:09 | Called get_entry on table groups.db and entry 5
+21:04:09 | Successfully parsed and returned entry
+21:04:09 | Called get_entry on table specialities.db and entry 1
+21:04:09 | Successfully parsed and returned entry
+21:04:09 | Called get_entry on table specialities.db and entry 1
+21:04:09 | Successfully parsed and returned entry
+21:04:12 | Started physically clearing deleted entries on table students.db
+21:04:12 | Nothing to delete
+21:04:12 | Started physically clearing deleted entries on table groups.db
+21:04:12 | Nothing to delete
+21:04:12 | Started physically clearing deleted entries on table specialities.db
+21:04:12 | Nothing to delete
